@@ -1,0 +1,13 @@
+body
+{
+	background-color: black;
+}
+
+h1
+{
+	color: white;
+	font-size: 1600%;
+	font-family: system-ui;
+	text-align: center;
+	text-shadow: 5px 1px 2px black, 0 0 0.1em grey, 0 0 0.1em grey;
+}
